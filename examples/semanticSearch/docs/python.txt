@@ -1,0 +1,20 @@
+Python is a high level programming language.
+It is known for its simplicity and readability.
+Python was created by Guido van Rossum.
+The language was first released in 1991.
+Python is widely used in software development.
+Many developers use Python for web development.
+Python frameworks like Django are very popular.
+Flask is another lightweight web framework.
+Python is also widely used in data science.
+Libraries like NumPy and Pandas are important.
+Data scientists use Python to analyze datasets.
+Python is commonly used in machine learning.
+Libraries like TensorFlow and PyTorch support AI development.
+Python is used for automation and scripting.
+Developers write scripts to automate repetitive tasks.
+Python is considered beginner friendly.
+Its syntax is easy to understand and learn.
+Many universities teach Python as a first programming language.
+Python has a large global developer community.
+Python continues to grow in popularity worldwide.

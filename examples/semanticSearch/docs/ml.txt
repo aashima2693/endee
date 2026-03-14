@@ -1,0 +1,20 @@
+Machine learning is a branch of artificial intelligence.
+It focuses on learning patterns from data.
+Machine learning systems improve through experience.
+Models are trained using historical datasets.
+Supervised learning uses labeled training data.
+Classification is a common supervised learning task.
+Regression is another type of supervised learning.
+Unsupervised learning works with unlabeled data.
+Clustering algorithms group similar data points.
+Reinforcement learning trains agents using rewards.
+Machine learning is used in recommendation systems.
+Streaming platforms suggest content using ML models.
+Machine learning is used in fraud detection.
+Banks analyze transactions using predictive models.
+Image recognition systems rely on machine learning.
+Speech recognition systems also use ML models.
+Healthcare applications use ML to detect diseases.
+Machine learning helps businesses analyze customer behavior.
+Large datasets improve model accuracy.
+Machine learning is a key technology in modern AI.
